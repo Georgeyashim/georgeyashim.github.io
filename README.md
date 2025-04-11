@@ -1,4 +1,3 @@
-# George Yashim David
 
 📍 No 1 Yoruba Street, Sabon Tasha, Kaduna State, Nigeria  
 📞 +234 904 386 9332 | +234 810 770 7297  
