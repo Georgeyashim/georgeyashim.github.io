@@ -80,12 +80,18 @@ Kaduna State University, Kaduna, Nigeria | *2019*
 
 ## 🧩 Leadership Experience
 
-- **Technical Officer** – PeerGIS *(2015 – Present)*  
-- **Interim Education Manager** – CAD and GIS Limited *(2022 – 2023)*  
-- **Corps Liaison Officer** – NYSC, Jos East LGA *(2021)*  
-- **Team Leader** – NHGSFP, Jos East *(2021)*  
-- **Faculty Senate Member & Electoral Secretary** – KASU *(2017 – 2019)*
+## 📜 Certifications
 
+- **Artificial Intelligence, Machine Learning and Cloud Services Certificates** – Microsoft Learn, Redmond, Washington, USA (2024)
+- **Virtual Assistant** – African Leadership International, Kigali, Rwanda (2024)
+- **Transform AEC Projects with GIS and BIM** – Environmental Systems Research Institute (ESRI), California, USA (2023)
+- **Cartography** – Environmental Systems Research Institute (ESRI), California, USA (2023)
+- **Data Science Certificate** – Great Learning Academy, Karnataka, India (2023)
+- **Spatial Analysis Certificate** – Environmental Systems Research Institute (ESRI), California, USA (2022)
+- **Certificate in Artificial Intelligence** – Accenture, Dublin, Ireland, United Kingdom (2022)
+- **Medical Microbiology (Using infection control to combat antimicrobial resistance) Certificate** – UEA (University of East Anglia), Norwich, United Kingdom (2021)
+- **Ergonomic Health Certificate** – Coventry University, Coventry, United Kingdom (2021)
+- **Certificate in Social Care** – City & Guilds Group, London, England (2021)
 ---
 
 ## 🧾 References
