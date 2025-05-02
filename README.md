@@ -9,11 +9,7 @@
 
 ## 👨‍💼 Professional Summary
 
-Innovative and results-driven **Information Technician**, **Environmental Scientist**, and **Data Scientist** with 6+ years of experience in **project management**, **data analysis**, and **AI-powered automation**.
-
-- Adept in ensuring data accuracy, confidentiality, and effective decision-making through advanced analytics.
-- Versatile in Microsoft Office, Google Workspace, UI/UX, and various spatial/data tools.
-- Passionate about leveraging technology for **sustainable development** and impactful outcomes.
+Results-driven Data Scientist and Information Technologist with **6+ years of expertise in data analysis, AI integration, GIS, and project management**. Proven ability to enhance decision-making through data-driven insights, automation, and spatial analytics. Skilled in Python, R, SQL, GIS tools (QGIS, ArcGIS), and cloud platforms (Microsoft, Google, PostGIS). Strong background in project management, environmental management, ensuring data accuracy, security, data analytics, and actionable reporting.
 
 ---
 
