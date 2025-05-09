@@ -29,42 +29,42 @@ Results-driven Data Scientist and Information Technologist with **6+ years of ex
 Peer with Tech Limited, Kaduna, Nigeria
 *2015 – Present*
 
-- ** Analysed large datasets for over 50 organizations, projects, and cases in the past year using MS Excel, Google Sheets, SPSS, Python, and R, enabling data-driven insights and strategic decisions.
-- ** Designed and delivered geospatial visualizations and maps using QGIS and ArcGIS, supporting research and reporting for clients including Intelliworx, CAD and GIS Limited, and Ahmadu Bello University.
-- ** Trained and mentored 50+ junior data analysts on data cleaning, analytical tools, and reporting standards, contributing to workforce capacity development.
-- ** Built and implemented automated monitoring and evaluation reports, resulting in a 20%+ increase in client engagement and profitability through enhanced data interpretation.
+- Analysed large datasets for over 50 organizations, projects, and cases in the past year using MS Excel, Google Sheets, SPSS, Python, and R, enabling data-driven insights and strategic decisions.
+- Designed and delivered geospatial visualizations and maps using QGIS and ArcGIS, supporting research and reporting for clients including Intelliworx, CAD and GIS Limited, and Ahmadu Bello University.
+- Trained and mentored 50+ junior data analysts on data cleaning, analytical tools, and reporting standards, contributing to workforce capacity development.
+- Built and implemented automated monitoring and evaluation reports, resulting in a 20%+ increase in client engagement and profitability through enhanced data interpretation.
 
 **Data Entry Officer (Contract)**
 National Emergency Management Agency (NEMA), Kaduna, Nigeria
 *2023*
 
-- ** Collected and digitized data from 23 local government areas, ensuring 100% accuracy in entry and formatting for disaster response efforts.
-- ** Designed and managed Excel/Access templates that streamlined data collation, improving reporting turnaround time by 30%.
-- ** Collaborated with a multidisciplinary team of scientists and field agents to produce real-time survey reports, aiding in efficient resource allocation.
+- Collected and digitized data from 23 local government areas, ensuring 100% accuracy in entry and formatting for disaster response efforts.
+- Designed and managed Excel/Access templates that streamlined data collation, improving reporting turnaround time by 30%.
+- Collaborated with a multidisciplinary team of scientists and field agents to produce real-time survey reports, aiding in efficient resource allocation.
 
 **Spatial Data Scientist (GIS) Intern**
 CAD and GIS Limited, Kaduna, Nigeria
 *2022 – 2023*
 
-- ** Assisted in producing maps and survey reports using QGIS and ArcMap, contributing to various projects.
-- ** Coordinated meetings and travel arrangements, supporting efficient team operations.
-- ** Played a key role in the company rebranding project, providing research and content contributions.
+- Assisted in producing maps and survey reports using QGIS and ArcMap, contributing to various projects.
+- Coordinated meetings and travel arrangements, supporting efficient team operations.
+- Played a key role in the company rebranding project, providing research and content contributions.
 
 **Technical Officer (Spatial Analyst)**
 National Centre for Remote Sensing (NCRS), Jos East, Plateau, Nigeria
 *2020 – 2021*
 
-- * Produced and maintained high-accuracy spatial datasets and reports for key environmental projects using GIS tools.
-- ** Streamlined departmental travel and expense reporting, leading to a 15% reduction in administrative overhead.
-- ** Assisted in preparing weekly management reports, increasing executive visibility into project status and impact.
+- Produced and maintained high-accuracy spatial datasets and reports for key environmental projects using GIS tools.
+- Streamlined departmental travel and expense reporting, leading to a 15% reduction in administrative overhead.
+- Assisted in preparing weekly management reports, increasing executive visibility into project status and impact.
 
 **Lead Enumerator**
 National Home-Grown School Feeding Program, Jos East, Plateau, Nigeria
 *2021 (Part-time, Six months)*
 
-- ** Supervised and trained 15+ field enumerators on digital data capture and upload using mobile tools.
-- ** Oversaw data collection for over 5,000 students across the LGA, achieving 98% accuracy rate in final datasets.
-- ** Compiled, analysed, and presented comprehensive findings to stakeholders, supporting the expansion of feeding programs in underserved communities.
+- Supervised and trained 15+ field enumerators on digital data capture and upload using mobile tools.
+- Oversaw data collection for over 5,000 students across the LGA, achieving 98% accuracy rate in final datasets.
+- Compiled, analysed, and presented comprehensive findings to stakeholders, supporting the expansion of feeding programs in underserved communities.
 
 ---
 
